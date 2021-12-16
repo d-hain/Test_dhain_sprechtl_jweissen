@@ -1,0 +1,5 @@
+# so geht das
+git clone https://github.com/d-hain/Test_dhain_sprechtl_jweissen
+notepad jweissen.txt
+git commit
+git push
