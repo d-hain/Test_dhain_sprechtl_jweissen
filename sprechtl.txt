@@ -1,0 +1,10 @@
+git clone
+Namesfile erstellen
+git commit
+git push
+
+git pull
+README.md edit
+Namesfile edit
+git commit
+git push
