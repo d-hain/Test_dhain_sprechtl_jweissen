@@ -7,4 +7,16 @@
 * git commit
 * git push
 
-4.
+5.
+* git pull
+* README.md bearbeiten
+* git commit -a
+* git push
+
+6.
+* git pull
+* README.md bearbeiten
+* git commit
+* git push (alle gleichzeitig)
+     nach dem Push war nur Stefans auf GitHub da sein Internet schneller war
+* Diese Datei noch einmal bearbeiten
