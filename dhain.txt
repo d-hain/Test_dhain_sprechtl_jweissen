@@ -1,1 +1,10 @@
+2. 
+* git clone https://github.com/d-hain/Test_dhain_sprechtl_jweissen
 
+3. 
+* dhain.txt erstellen und speichern
+* git add dhain.txt
+* git commit
+* git push
+
+4.
