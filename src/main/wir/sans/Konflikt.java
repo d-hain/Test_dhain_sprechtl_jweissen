@@ -8,5 +8,6 @@ public class Konflikt {
         System.out.println(E);
         //infaßfwina
         //schusch
+        //aiudaod wa09j0da ß0ada´0w
     }
 }
