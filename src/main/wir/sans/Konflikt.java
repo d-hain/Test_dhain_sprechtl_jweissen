@@ -4,5 +4,6 @@ public class Konflikt {
     public static void main(String[] args) {
         //asdiub
         //infaßfwina
+        //schusch
     }
 }
