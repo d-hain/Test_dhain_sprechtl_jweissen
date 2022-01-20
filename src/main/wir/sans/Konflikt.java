@@ -6,5 +6,7 @@ public class Konflikt {
         int E = 15;
         E++;
         System.out.println(E);
+        //infaßfwina
+        //schusch
     }
 }
